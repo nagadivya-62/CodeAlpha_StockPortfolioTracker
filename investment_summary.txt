@@ -1,0 +1,4 @@
+TSLA: 12 TSLA → ₹250 × 12 = ₹3000
+MSFT: 14 MSFT → ₹200 × 14 = ₹2800
+
+ Total Investment: Rupees 5800
